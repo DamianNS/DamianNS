@@ -14,4 +14,6 @@
 🔹Configuración Docker + Pi-hole en Raspberry Pi 5 - Guía y scripts para bloquear publicidad y mejorar la red.
 ## 📫 Contacto
 - 🌐 [LinkedIn](https://www.linkedin.com/in/damianns/)
+
+
 ¡Gracias por visitar mi perfil! 🚀
