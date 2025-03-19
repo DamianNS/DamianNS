@@ -8,8 +8,10 @@
 - 🛠️ Otros: **Pi-hole, Raspberry Pi 5, GitHub Actions**
 ## 📌 Proyectos Destacados
 🔹[Modificación de AzerothCore para D&D y Rasberry Pi OS](https://github.com/DamianNS/azerothcore-wotlk-rpi) - Reemplazo de estadísticas de WoW por mecánicas de D&D.
+
 🔹AI Local para D&D - Implementación de un agente de IA local para asistir en campañas de D&D.
+
 🔹Configuración Docker + Pi-hole en Raspberry Pi 5 - Guía y scripts para bloquear publicidad y mejorar la red.
 ## 📫 Contacto
-- 🌐 [LinkedIn](https://www.linkedin.com/in/damianns/))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/damianns/)
 ¡Gracias por visitar mi perfil! 🚀
